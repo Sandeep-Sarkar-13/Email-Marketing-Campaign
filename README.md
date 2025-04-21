@@ -4,22 +4,6 @@ Hey there! 👋 Welcome to the **Email Marketing Campaign Optimization** project
 
 ---
 
-## 📑 **What’s Inside?**
-
-Here's what you can expect to find in this project:
-
-1. [Project Overview](#project-overview)  
-2. [The Data](#the-data)  
-3. [Exploring the Data](#exploring-the-data)  
-4. [Building a Model](#building-a-model)  
-5. [Optimizing Future Campaigns](#optimizing-future-campaigns)  
-6. [A/B Testing & Stats](#ab-testing--stats)  
-7. [User Insights](#user-insights)  
-8. [Conclusion](#conclusion)  
-9. [Tech Stack](#tech-stack)
-
----
-
 ## 🚀 **Project Overview**
 
 The idea here is simple: make email marketing smarter. Instead of just sending emails randomly, we aim to optimize which users should get an email, what time it should be sent, and how personalized the content should be. By doing this, we can **maximize user engagement** and **increase sales**. 🎯
